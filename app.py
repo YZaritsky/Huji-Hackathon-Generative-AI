@@ -6,7 +6,7 @@ import streamlit_ace as st_ace
 import pipline
 import subprocess
 from PIL import Image
-image = Image.open('HackEnv/pics/Codi.png')
+image = Image.open('pics/Codi.png')
 
 if "app" not in state:
     state.app = "model"
