@@ -13,7 +13,7 @@ pip install --upgrade -r requirements.txt
 
 
 # API Key
-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
+
 
 # Structure
 app.py == UI/UX - Basic workflow, how the app looks like.
